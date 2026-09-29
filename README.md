@@ -47,10 +47,13 @@ Most of my work runs in private client repositories. Here is what it does.
 
 **Latest**
 
-<!-- BLOG-POST-LIST:START -->- [Apple Kills Your User Attribution. You Can Still Beat It. For Free.](https://medium.com/@mcsavvy/apple-kills-your-user-attribution-you-can-still-beat-it-for-free-139e0365d372?source=rss-3e846854f5fb------2)
+<!-- BLOG-POST-LIST:START -->
+
+- [Apple Kills Your User Attribution. You Can Still Beat It. For Free.](https://medium.com/@mcsavvy/apple-kills-your-user-attribution-you-can-still-beat-it-for-free-139e0365d372?source=rss-3e846854f5fb------2)
 - [Everyone Is Learning to Code. That’s Exactly the Problem.](https://medium.com/@mcsavvy/everyone-is-learning-to-code-thats-exactly-the-problem-1aad3f70e309?source=rss-3e846854f5fb------2)
 - [What Trend Are You Following?](https://medium.com/@mcsavvy/what-trend-are-you-following-6bf352ab9cd8?source=rss-3e846854f5fb------2)
 - [The Value of a Job &lpar;And Why “Too Expensive” Is Usually a Lie&rpar;](https://medium.com/@mcsavvy/the-value-of-a-job-and-why-too-expensive-is-usually-a-lie-ed5663d85cdb?source=rss-3e846854f5fb------2)
+
 <!-- BLOG-POST-LIST:END -->
 
 [All articles on Medium →](https://medium.com/@mcsavvy)
