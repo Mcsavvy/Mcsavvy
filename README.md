@@ -1,144 +1,65 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&repeat=true&random=false&width=500&lines=Dave+Mcsavvy+%E2%80%94+Senior+Backend+%26+AI+Engineer;Founder+of+FuturDevs;Building+elite+African+developers." alt="Typing SVG" width="500" height="70">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img alt="David John, Fractional CTO and Software Architect" src="./assets/banner-light.svg" width="100%">
+</picture>
 
-<br/>
+### I help founders go from _"is this even possible?"_ to a secure, live product.
 
-<p align="center">
-  I build backend systems and AI infrastructure — then I turn what I learn into fuel for the next generation of African engineers.<br/>
-  Founder of <a href="https://futurdevs.com"><strong>FuturDevs</strong></a> · Lagos, Nigeria · Open to senior contracts & technical partnerships
-</p>
+You bring the problem. I bring the judgment: what to build, what to skip, and how to keep it standing once real people use it. Five years shipping production systems for teams in Nigeria, the UK and the US.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/david-john-148a211a5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="26" alt="linkedin"/>
-  </a>
-  <a href="https://twitter.com/davemcsavvy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="26" alt="twitter"/>
-  </a>
-  <a href="https://medium.com/@mcsavvy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="26" alt="medium"/>
-  </a>
-  <a href="https://stackoverflow.com/users/14463304/dave-mcsavvy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="26" alt="stackoverflow"/>
-  </a>
-  <a href="mailto:davemcsavvii@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="26" alt="gmail"/>
-  </a>
-  <img src="https://visitcount.itsvg.in/api?id=Mcsavvy&label=Profile%20Views&color=1&icon=5&pretty=true" height="26" alt="profile views"/>
-</div>
+**Now:** architecture for [CreditVeto](#selected-work) and [LexiLead](#selected-work) · building AI systems that hold up in regulated industries · writing on architecture and AI in production
 
----
-
-## What I do
-
-I'm a **Senior Backend & AI Systems Engineer** with 5+ years building production-grade systems across web, AI, and cloud infrastructure. My work ranges from multi-agent RAG architectures and real-time WebSocket platforms to scalable microservices and developer tooling.
-
-I also run **FuturDevs** — a community I founded to recruit and develop Africa's most capable engineers. If you're elite, or want to become elite, [find out more here](https://futurdevs.com).
-
----
-
-## Core stack
-
-<div align="center">
-
-**Backend**
-
-<img src="https://cdn.simpleicons.org/python/3776AB" height="36" alt="python"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs"/>
-<img width="10"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="36" alt="fastapi"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/flask/000000" height="36" alt="flask"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="django"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/socketdotio/010101" height="36" alt="socketio"/>
-
-**AI / ML**
-
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="36" alt="langchain"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/openai/412991" height="36" alt="openai"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="36" alt="postgresql (vector)"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/redis/DC382D" height="36" alt="redis"/>
-
-**Cloud & DevOps**
-
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="36" alt="aws"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="36" alt="docker"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/githubactions/2088FF" height="36" alt="github actions"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="36" alt="linux"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/nginx/009639" height="36" alt="nginx"/>
-
-**Languages**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/typescript/3178C6" height="36" alt="typescript"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="c"/>
-<img width="10"/>
-<img src="https://cdn.simpleicons.org/ruby/CC342D" height="36" alt="ruby"/>
-
-</div>
-
----
+<br>
 
 ## Selected work
 
-| Project | What it does | Stack |
-|---|---|---|
-| **KloudFarm AI Docs Platform** | Multi-agent RAG system — real-time WebSocket collab, Step Functions vectorisation pipeline, 64% reduction in documentation drift | FastAPI · AWS Lambda · LangChain · Redis · PostgreSQL |
-| **MYKITCHENPOWER** | AI culinary assistant serving 10k+ users — 35% task automation uplift, 50% faster recipe delivery | Flask · LangChain · Celery · OpenAI |
-| **iLens** | AI navigation assistant for the visually impaired | Python · Clarifai · Computer Vision |
-| **ALEXIS** | Chrome extension chatbot for ALX students — 30% improvement in project completion rates | Python · LangChain · Browser Extension API |
-| **FuturDevs CRM** | Led full-stack CRM build that increased client sales by 25% and cut admin overhead by 30% | Node.js · PostgreSQL · React |
+Most of my work runs in private client repositories. Here is what it does.
 
----
+| Product        | Domain                     | The problem, and what I did                                                                                                                                               |
+| -------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **PLSOM**      | Education · NG             | Rebuilt a live learning platform piece by piece while classes carried on. Two years on, students still log in every week.                                                 |
+| **Trakitt**    | Healthcare compliance · UK | Tamper-proof incident and complaint records plus alert escalation across the 41 measures the CQC framework checks. Inspection day becomes a printout.                     |
+| **CreditVeto** | Fintech · NG               | Identity checks, a real-time fraud engine and a verifiable credit score. New fraud rules run in watch-only mode first. Close to 1,000 transactions ahead of wider launch. |
+| **ALi**        | AI · Knowledge work        | Company knowledge assistant. Paired keyword and semantic search, then let the agent page through results like a person. Piloted by two organisations.                     |
+| **LexiLead**   | Legal tech · NG            | Limitation-period tracking and conflict checks for law firms. I lead architecture and backend. In pilot.                                                                  |
+| **Shotkeet**   | AI · Video                 | Prompt to finished video in about three minutes. Built end to end, from render pipeline to UI.                                                                            |
 
-## FuturDevs
+[More work and case studies →](https://mcsavvy.is-a.dev)
 
-> *Gathering the 20. Refactoring Africa's tech future.*
+<br>
 
-FuturDevs is a community I founded to identify, train, and deploy Africa's most capable engineers. Not a bootcamp. Not a Discord server. A deliberate effort to build peers — engineers who can design systems, lead teams, and ship real products.
+## How I work
 
-If that sounds like you — or who you want to become — **[join the waitlist](https://futurdevs.com)**.
+**Discovery.** I ask what solving this earns or saves you, then write back what I heard. You confirm before any code exists.<br>
+**Architecture.** A plan you can see: what ships first, what waits, what it costs. Then I freeze v1 so it ships.<br>
+**Build.** Design, AI and engineering, with you testing as it grows.<br>
+**Launch.** Secured, deployed and watched. I stay on after go-live.
 
----
+<br>
 
-## Writing
+## Latest writing
 
-I write about system design, AI architecture, and the realities of engineering from Africa.
-Recent pieces on [Medium →](https://medium.com/@mcsavvy)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- **Why 'Clean' Code Fails At Scale**
-- **Architectural Autopsy: My First AI System That Broke in Production**
-- **Why Most Senior Engineers Stall (And What to Do About It)**
-- **Vibe Coding Is Fun — Until You Have to Own the System**
+[All articles on Medium →](https://medium.com/@mcsavvy)
 
----
+<br>
 
-## GitHub stats
+## Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcsavvy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcsavvy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages"/>
-  <img src="https://streak-stats.demolab.com?user=mcsavvy&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcsavvy&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contribution+Graph" height="300" alt="activity-graph"/>
-</div>
+**Languages** · TypeScript, Python, SQL, Clarity, Solidity<br>
+**Backend** · NestJS, FastAPI, Django, PostgreSQL + pgvector, Redis, BullMQ<br>
+**Frontend** · Next.js, React, Tailwind, TanStack Query, PWAs<br>
+**AI** · Claude, LangGraph, LangChain, hybrid RAG, evaluation and guardrails<br>
+**Infra** · Docker, Turborepo, GitHub Actions, Coolify, Hetzner, Vercel, AWS, Cloudflare
 
-<img src="https://raw.githubusercontent.com/mcsavvy/mcsavvy/output/snake.svg" alt="Snake animation"/>
+<br>
 
----
+## Let's talk
 
-<div align="center">
-  <sub>Senior Backend & AI Engineer · Founder, FuturDevs · Lagos, Nigeria · <a href="mailto:davemcsavvii@gmail.com">davemcsavvii@gmail.com</a></sub>
-</div>
+Tell me the idea. I'll tell you if it's possible.
+
+**[Book a 30-minute "Is It Possible?" call →](https://calendar.app.google/kk2oCLz1PuEsUuwL9)**
+
+[Website](https://mcsavvy.is-a.dev) · [LinkedIn](https://linkedin.com/in/davemcsavvy) · [Medium](https://medium.com/@mcsavvy) · [X](https://x.com/davemcsavvy) · [davidjohn@futurdevs.com](mailto:davidjohn@futurdevs.com)
